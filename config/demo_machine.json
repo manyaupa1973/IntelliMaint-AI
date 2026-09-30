@@ -1,0 +1,10 @@
+{
+    "machine_id": "MCH-DEMO-001",
+    "temperature_c": 85.4,
+    "vibration_mm_s": 6.2,
+    "pressure_bar": 6.8,
+    "rpm": 1510,
+    "current_a": 34.5,
+    "voltage_v": 401.2,
+    "operating_hours": 4200
+}
