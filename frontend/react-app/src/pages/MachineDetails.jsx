@@ -1,0 +1,1 @@
+// Machine details page placeholder.

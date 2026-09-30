@@ -1,0 +1,1 @@
+"""Excel ingestion adapter placeholder."""

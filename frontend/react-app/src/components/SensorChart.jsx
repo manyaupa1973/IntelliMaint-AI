@@ -1,0 +1,1 @@
+// Sensor chart component placeholder.

@@ -1,0 +1,1 @@
+// Fault panel component placeholder.

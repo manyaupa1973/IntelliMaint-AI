@@ -1,0 +1,1 @@
+// Machine card component placeholder.

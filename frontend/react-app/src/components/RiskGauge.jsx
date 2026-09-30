@@ -1,0 +1,1 @@
+// Risk gauge component placeholder.
