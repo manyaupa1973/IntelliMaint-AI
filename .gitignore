@@ -19,6 +19,7 @@ data/processed/*
 !data/processed/.gitkeep
 ml/artifacts/*
 !ml/artifacts/.gitkeep
+!ml/artifacts/failure_prediction_model.joblib
 
 .venv/
 __pycache__/
